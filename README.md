@@ -1,7 +1,3 @@
-Here's a concise and engaging README for your GitHub repository:
-
----
-
 # MNIST GAN Image Generator
 
 This repository contains a Generative Adversarial Network (GAN) implemented in TensorFlow and Keras to generate realistic handwritten digits similar to the MNIST dataset.
